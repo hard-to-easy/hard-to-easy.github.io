@@ -1,8 +1,3 @@
-/**
- * 3D Software ocean effect with Canvas2D
- * You can change properties under comment "Effect properties"
- */
-
 // Init Context
 let c = document.createElement('canvas').getContext('2d')
 let postctx = document.body.appendChild(document.createElement('canvas')).getContext('2d')
